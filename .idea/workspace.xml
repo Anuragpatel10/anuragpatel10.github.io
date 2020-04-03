@@ -1,192 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7f45cce-d4de-45fd-9d64-5bef8976c369" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/calendar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/camera-rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/camera.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/colors-rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/colors-rtl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/colors.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/colors.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/bs-datatable.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/bs-editable.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/bs-filestyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/bs-rating.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/bs-select.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/bs-switches.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/dark-components.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/daterangepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/ion.rangeslider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/pricing-table.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/radio-checkbox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/rangeslider/sprite-skin-nice.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/select-boxes.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/timepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/dark-rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/dark.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/elastic.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-icons-rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-icons-snapchat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/Simple-Line-Icons.dev.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/Simple-Line-Icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/Simple-Line-Icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/Simple-Line-Icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/Simple-Line-Icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/font-icons-snapchat.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/font-icons-snapchat.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/font-icons-snapchat.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/font-icons-snapchat.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/font-icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/font-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/font-icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/font-icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/lined-icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/lined-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/lined-icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts/lined-icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/blog.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/content.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/events.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/extras.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/footer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/header.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/helpers.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/layouts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/pagetitle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/portfolio.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shop.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/alerts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/buttons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/carousel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/clients.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/countdown.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/counter-skills.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/dividers.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/faqs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/feature-box.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/headings.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/misc.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/overlay.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/pricing.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/process-steps.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/promo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/social-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/styled-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/tabs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/team.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/testimonials.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/toggles-accordions.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/shortcodes/youtubebg.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/sliders.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/topbar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/typography.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/imports/widgets.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/intro-fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/magnific-popup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/nivo-slider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/responsive-rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/swiper.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vmap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/resume/css/fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/resume/images/hero-image/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/resume/images/hero-image/1st.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/resume/images/hero-image/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/resume/images/hero-image/6.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/resume/resume.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chart-utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/bs-datatable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/bs-editable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/bs-filestyle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/bs-select.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/bs-switches.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/daterangepicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/moment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/rangeslider.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/responsive-tabs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/select-boxes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/selectsplitter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/star-rating.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/timepicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/typehead.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/events-data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/functions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.calendario.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.camera.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.elastic.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.gmap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.mousewheel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.nivo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.vmap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins-dynamic.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.chart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.color.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.cookie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.countdown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.countto.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.dribbble.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.fitvids.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.flexslider.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.flickrfeed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.important.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.infinitescroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.instagram.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.isotope.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.magnific.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.owlcarousel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.pagetransition.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.paginate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.parallax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.piechart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.superfish.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.swiper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.tabs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.textrotator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.toastr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.twitterfeed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.validation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins/jquery.youtube.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/continents/jquery.vmap.africa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/continents/jquery.vmap.asia.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/continents/jquery.vmap.australia.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/continents/jquery.vmap.europe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/continents/jquery.vmap.north-america.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/continents/jquery.vmap.south-america.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/jquery.vmap.algeria.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/jquery.vmap.argentina.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/jquery.vmap.brazil.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/jquery.vmap.canada.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/jquery.vmap.europe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/jquery.vmap.france.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/jquery.vmap.germany.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/jquery.vmap.greece.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/jquery.vmap.iran.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/jquery.vmap.iraq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/jquery.vmap.russia.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/jquery.vmap.sampledata.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/jquery.vmap.tunisia.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/jquery.vmap.turkey.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/jquery.vmap.usa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vmap/jquery.vmap.world.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" />
-    </list>
+    <list default="true" id="e7f45cce-d4de-45fd-9d64-5bef8976c369" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -222,14 +38,27 @@
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7f45cce-d4de-45fd-9d64-5bef8976c369" name="Default Changelist" comment="" />
+      <created>1585730793591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585730793591</updated>
+      <workItem from="1585730794743" duration="228000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
